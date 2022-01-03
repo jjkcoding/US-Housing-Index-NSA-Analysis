@@ -3,7 +3,7 @@
 ## Description:
 Because of my interest to travel around the world, I wanted to know and compare the housing prices of all the states in the U.S. I was able to get a dataset from the Federal Housing Finance Agency website (https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). 
 
-### Notice: The below images are shown better if you click on them or viewed from the Google Colab.
+### Notice: Click the plots below to view the full plot.
 
 Using the housing dataset, I was able to view the positive upward trend of the housing prices over time shown below. 
 ![image](https://user-images.githubusercontent.com/43764400/147300447-ec8ae089-b161-4230-a0b6-3997d5277ed2.png)
