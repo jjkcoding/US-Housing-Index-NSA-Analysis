@@ -1,4 +1,11 @@
-# US-Index-NSA-Analysis
+# U.S. Housing Index NSA Analysis: Project Overview
+* Filtered and reviewed over a hundred thousand housing entries to prepare
+data for visualization
+* Displayed data onto a bar chart and a map (choropleth) to better visualize
+the data
+* Discovered key findings about the housing prices for all states in the U.S.
+* **Main Packages:** pandas, matplotlib, datetime
+
 
 ## Description:
 Because of my interest to travel around the world, I wanted to know and compare the housing prices of all the states in the U.S. I was able to get a dataset from the Federal Housing Finance Agency website (https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). 
