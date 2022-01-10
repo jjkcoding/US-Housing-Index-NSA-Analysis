@@ -3,7 +3,7 @@
 ## Description:
 Because of my interest to travel around the world, I wanted to know and compare the housing prices of all the states in the U.S. I was able to get a dataset from the Federal Housing Finance Agency website (https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). 
 
-### Notice: Click the plots below to view the full plot.
+### Note: If you are on github's dark theme mode, you will not be able to see the black labels on the plot
 
 Using Python, I was able plot a bar chart of the housing prices for each state to display the least and most expensive states to live in the U.S.
 ![image](https://user-images.githubusercontent.com/43764400/147300499-2792d67e-9a8c-4309-ab9c-c159c41f1417.png)
