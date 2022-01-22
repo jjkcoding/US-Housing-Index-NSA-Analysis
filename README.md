@@ -1,17 +1,22 @@
 # U.S. Housing Index NSA Analysis: Project Overview
-* Filtered and reviewed over a hundred thousand housing entries to prepare
-data for visualization
+* Filtered and manipulated over a hundred thousand housing entries to prepare
+data for visualization using SQLite
 * Displayed data onto a bar chart and a map (choropleth) to better visualize
-the data
+the data using Python
 * Discovered key findings about the housing prices for all states in the U.S.
-* **Main Packages:** pandas, matplotlib, datetime
+* **Coding Languages:** SQL, Python
+* **Main Packages:** pandas, matplotlib, plotly
 
 
 ## Description:
 Because of my interest to travel around the world, I wanted to know and compare the housing prices of all the states in the U.S. I was able to get a dataset from the Federal Housing Finance Agency website (https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). 
 
-### Note: If you are on github's dark theme mode, you will not be able to see the black labels on the plot
+## Filtering Data with SQL
+* Filtered out unnecessary columns and grabbed the necessary state data values with SQL queries
+* Calculated a table of the average housing prices per year
+* Formed another table of the latest housing state data (Year = 2021, Period = 3)
 
+## Plotting Data with Python
 Using Python, I was able plot a bar chart of the housing prices for each state to display the least and most expensive states to live in the U.S.
 ![image](https://user-images.githubusercontent.com/43764400/147300499-2792d67e-9a8c-4309-ab9c-c159c41f1417.png)
 
@@ -22,4 +27,4 @@ Finally, I created a fun animated bar chart of how the index nsa changed over ti
 
 
 ## What I Learned:
-From a data analytical stand point, I was able to further expand my knowledge in filtering and adjusting datasets. Moreover, I was able to further my knowledge in creating nice bar charts and choropleths to help myself in future data analysis projects. From my personal stand point, I am now planning on exploring moving to Texas, Michigan, or any of the central states for cheaper housing prices in the future. Overall, this was a fun data analysis project and hopefully a beneficial reference for future projects.
+From a data analytical stand point, I was able to further expand my knowledge in filtering and adjusting datasets using SQL. Moreover, I was able to further my knowledge in creating nice bar charts and choropleths to help myself in future data analysis projects. From my personal stand point, I am now planning on exploring moving to Texas, Michigan, or any of the central states for cheaper housing prices in the future. Overall, this was a fun data analysis project and hopefully a beneficial reference for future projects.
