@@ -25,6 +25,11 @@ I was also able to plot the above plot as a choropleth to visually see correlati
 
 Finally, I created a fun animated bar chart of how the index nsa changed over time. However, it was too big to display on the github or on the Google Colab. If you run the code, it would take around 15 minutes to make and download. 
 
+## Creating Dashboard with Tableau
+Using Tableau, I was able to plot a choropleth, histogram of the distribution of housing prices, and the most and least expensive states in the United States. I created an interactive dashboard which allows the user to view the plots I just listed by different years and periods. Now, I could compare and contrast the previous years and periods to the current housing prices.
+
+![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911568-6848464b-e888-4d12-95d2-baf4edef3982.png)
+
 
 ## What I Learned:
-From a data analytical stand point, I was able to further expand my knowledge in filtering and adjusting datasets using SQL. Moreover, I was able to further my knowledge in creating nice bar charts and choropleths to help myself in future data analysis projects. From my personal stand point, I am now planning on exploring moving to Texas, Michigan, or any of the central states for cheaper housing prices in the future. Overall, this was a fun data analysis project and hopefully a beneficial reference for future projects.
+From a data analytical stand point, I was able to further expand my knowledge in filtering and adjusting datasets using SQL. Moreover, I was able to further my knowledge in creating nice bar charts and choropleths with Python and Tableau to help myself in future data analysis projects. Due to the distribution from my analysis, I am now planning on exploring moving to Texas, Michigan, or any of the central states for cheaper housing prices in the future. Overall, this was a fun data analysis project and hopefully a beneficial reference for future projects.
