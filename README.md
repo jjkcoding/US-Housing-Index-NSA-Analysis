@@ -4,6 +4,7 @@ data for visualization using SQLite
 * Displayed data onto a bar chart and a map (choropleth) to better visualize
 the data using Python
 * Discovered key findings about the housing prices for all states in the U.S.
+* * Created an interactive dashboard of key findings with Tableau
 * **Coding Languages:** SQL, Python, Tableau
 * **Main Packages:** pandas, matplotlib, plotly
 
