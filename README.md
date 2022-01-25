@@ -27,6 +27,7 @@ Finally, I created a fun animated bar chart of how the index nsa changed over ti
 
 ## Creating Dashboard with Tableau
 Using Tableau, I was able to plot a choropleth, histogram of the distribution of housing prices, and the most and least expensive states in the United States. I created an interactive dashboard which allows the user to view the plots I just listed by different years and periods. Now, I could compare and contrast the previous years and periods to the current housing prices.
+Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
 
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911568-6848464b-e888-4d12-95d2-baf4edef3982.png)
 
