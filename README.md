@@ -1,8 +1,8 @@
 # U.S. Housing Index NSA Analysis: Project Overview
-* Filtered and manipulated over one hundred thousand housing entries with SQLite
-* Displayed the data onto a bar chart and a choropleth to better visualize the data using Python
-* Discovered key findings about the housing prices for all states in the U.S.
-* Created an interactive dashboard of key findings with Tableau
+* Analyzed and manipulated over 100,000 housing entries using SQLite, ensuring high-quality data for analysis.
+* Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
+* Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
+* Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
 * **Coding Languages:** SQL, Python, Tableau
 * **Main Packages:** pandas, matplotlib, plotly
 
